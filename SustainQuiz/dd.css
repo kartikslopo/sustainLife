@@ -1,0 +1,15 @@
+p{
+	background: #f9ffe6;
+	text-align: center;
+}
+.quiz-container{
+	background:  rgba(255, 99, 71, 0.4);
+	text-align: center;
+}
+
+input:not([type="image" i]){
+	width: 300px;
+}
+body{
+	background: url("https://cdn.pixabay.com/photo/2016/10/17/14/31/background-1747792_1280.jpg");
+}

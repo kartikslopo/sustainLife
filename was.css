@@ -1,0 +1,16 @@
+#pol{
+	font-size: 1.0em;
+	color: black ;
+}
+input.notify-me{
+	margin-left: 100px;
+	padding: 20px 35px;
+    font-size: 300px;
+    font-weight: 500;
+    background-color: #0fe0ba;
+    border-radius: 0;
+}
+#op{
+	top: 0;
+	left: 0;
+}

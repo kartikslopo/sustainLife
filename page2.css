@@ -1,0 +1,16 @@
+.baner-content h1{
+	font-size: 90px; 
+}
+
+.baner-content span{
+	color: peachpuff;
+}
+.pl{
+	color: green;
+}
+.whatIf{
+	background: black;
+	margin: auto;
+	text-align: center;
+	color: white;
+}
